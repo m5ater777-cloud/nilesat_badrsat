@@ -1,0 +1,49 @@
+#EXTM3U
+
+###########################
+## 🇪🇬 مصرية
+###########################
+#EXTINF:-1 tvg-name="CBC" group-title="EGYPT | General",CBC
+https://iptv-org.github.io/iptv/countries/eg.m3u
+
+#EXTINF:-1 tvg-name="ON" group-title="EGYPT | General",ON
+https://iptv-org.github.io/iptv/countries/eg.m3u
+
+#EXTINF:-1 tvg-name="DMC" group-title="EGYPT | General",DMC
+https://iptv-org.github.io/iptv/countries/eg.m3u
+
+###########################
+## 🇸🇦 السعودية
+###########################
+#EXTINF:-1 tvg-name="Rotana Cinema" group-title="SAUDI | Movies",Rotana Cinema
+https://iptv-org.github.io/iptv/countries/sa.m3u
+
+#EXTINF:-1 tvg-name="Saudi Channel 1" group-title="SAUDI | General",Saudi 1
+https://iptv-org.github.io/iptv/countries/sa.m3u
+
+###########################
+## 📰 أخبار
+###########################
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="NEWS",Al Jazeera
+https://iptv-org.github.io/iptv/countries/qa.m3u
+
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="NEWS",Al Arabiya
+https://iptv-org.github.io/iptv/countries/sa.m3u
+
+###########################
+## ⚽ رياضة
+###########################
+#EXTINF:-1 tvg-name="BeIN Sports" group-title="SPORTS",BeIN Sports
+https://iptv-org.github.io/iptv/sport/beinsports.m3u
+
+#EXTINF:-1 tvg-name="ON Time Sports" group-title="SPORTS",ON Time Sports
+https://iptv-org.github.io/iptv/countries/eg.m3u
+
+###########################
+## 🎬 أفلام
+###########################
+#EXTINF:-1 tvg-name="MBC 2" group-title="MOVIES",MBC 2
+https://iptv-org.github.io/iptv/countries/eg.m3u
+
+#EXTINF:-1 tvg-name="Rotana Aflam" group-title="MOVIES",Rotana Aflam
+https://iptv-org.github.io/iptv/countries/sa.m3u
