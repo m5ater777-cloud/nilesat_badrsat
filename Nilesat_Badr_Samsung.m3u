@@ -1,0 +1,84 @@
+#EXTM3U
+
+############################
+## 🇪🇬 قنوات مصرية – عامة
+############################
+#EXTINF:-1 group-title="EGYPT | General",MBC Masr
+http://STREAM-URL
+
+#EXTINF:-1 group-title="EGYPT | General",MBC Masr 2
+http://STREAM-URL
+
+#EXTINF:-1 group-title="EGYPT | General",ON
+http://STREAM-URL
+
+#EXTINF:-1 group-title="EGYPT | General",DMC
+http://STREAM-URL
+
+#EXTINF:-1 group-title="EGYPT | General",CBC
+http://STREAM-URL
+
+
+############################
+## 🇪🇬 قنوات مصرية – أفلام
+############################
+#EXTINF:-1 group-title="EGYPT | Movies",Rotana Cinema
+http://STREAM-URL
+
+#EXTINF:-1 group-title="EGYPT | Movies",Cairo Cinema
+http://STREAM-URL
+
+
+############################
+## 🇸🇦 قنوات سعودية
+############################
+#EXTINF:-1 group-title="SAUDI | General",Saudi Channel 1
+http://STREAM-URL
+
+#EXTINF:-1 group-title="SAUDI | General",Saudi Channel 2
+http://STREAM-URL
+
+#EXTINF:-1 group-title="SAUDI | Religion",Quran Saudi
+http://STREAM-URL
+
+
+############################
+## 📰 قنوات إخبارية
+############################
+#EXTINF:-1 group-title="NEWS",Al Jazeera
+http://STREAM-URL
+
+#EXTINF:-1 group-title="NEWS",Al Arabiya
+http://STREAM-URL
+
+#EXTINF:-1 group-title="NEWS",Sky News Arabia
+http://STREAM-URL
+
+
+############################
+## ⚽ قنوات رياضية (نايل/بدر)
+############################
+#EXTINF:-1 group-title="SPORTS",ON Time Sports 1
+http://STREAM-URL
+
+#EXTINF:-1 group-title="SPORTS",ON Time Sports 2
+http://STREAM-URL
+
+#EXTINF:-1 group-title="SPORTS",SSC Sports
+http://STREAM-URL
+
+#EXTINF:-1 group-title="SPORTS",Abu Dhabi Sports
+http://STREAM-URL
+
+
+############################
+## 🎬 قنوات أفلام عربية
+############################
+#EXTINF:-1 group-title="MOVIES",Rotana Aflam
+http://STREAM-URL
+
+#EXTINF:-1 group-title="MOVIES",MBC 2
+http://STREAM-URL
+
+#EXTINF:-1 group-title="MOVIES",MBC Action
+http://STREAM-URL
